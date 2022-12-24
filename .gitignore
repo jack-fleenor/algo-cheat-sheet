@@ -1,0 +1,7 @@
+server/env
+server/__pycache__
+server/.flaskenv
+client/build
+client/node_modules
+client/dist
+client/env
