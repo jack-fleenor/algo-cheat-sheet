@@ -1,0 +1,20 @@
+.bigCardContainer{
+  display: block;
+  flex-direction: row;
+  max-width: 750px;
+}
+.bigCardTitle{
+  text-align: left;
+  width: 100%;
+}
+.bigCardBody{
+  width: 100%;
+  display: flex;
+}
+.bigCardSideImage{
+  width: 50%;
+}
+.bigCardSideDescription{
+  text-align: left;
+  width: 50%;
+}
